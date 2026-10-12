@@ -121,9 +121,6 @@ This release includes Qt6 startup compatibility corrections and a sidebar layout
 
 Stillroom does not currently support real interactive task checkboxes, inline images, tables, cloud sync, end-to-end encryption or simultaneous multi-window editing. Possible future improvements include attachments, drag-and-drop note organisation, templates, keyboard-first navigation and more extensive accessibility testing.
 
-## License
-
-No open-source license has been selected yet. Add a `LICENSE` file before granting others permission to redistribute, modify or reuse this code. Publishing a repository publicly does not itself provide an open-source license.
 
 ---
 
