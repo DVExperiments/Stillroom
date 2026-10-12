@@ -1,0 +1,32 @@
+{
+  "title": "Stillroom",
+  "tagline": "Your own quiet corner.",
+  "description": "Stillroom is a calm, offline notebook and rich-text writing application built in Python with PySide6. Capture ideas, organise notebooks, and write without accounts, subscriptions or cloud dependencies.",
+  "category": "Applications",
+  "platform": "Python / PySide6 / Windows desktop",
+  "overview": [
+    "Stillroom is a local-first writing space designed to reduce distractions. It offers a clean three-column layout, a comfortable editor and light and dark themes, bringing the familiar features of a notebook into a self-contained desktop application.",
+    "Instead of inserting Markdown symbols, Stillroom uses genuine rich-text editing for bold, italic, underline, headings, lists and quotations. Notes are automatically saved on the computer and can be searched by their content, title, notebook or tags.",
+    "Organise ideas into separate notebooks, favourite and pin important notes, archive finished work, and restore notes from Trash. Focus mode hides surrounding navigation so the writing page can take centre stage.",
+    "The app avoids accounts, analytics, cloud sync and background services. Export individual notes as HTML or text, or create a full JSON backup of your collection."
+  ],
+  "highlights": [
+    "Native Python desktop application built with PySide6 and Qt6",
+    "Direct rich-text editing with bold, italic, underline, headings, lists and quotations",
+    "Paper-inspired writing canvas with light and dark themes",
+    "Notebooks, searchable tags, pinned notes and favourites",
+    "Full note search across titles, text, notebooks and tags",
+    "Focus mode for distraction-free writing",
+    "Archive, Trash and note restoration",
+    "Automatic local saving with migration and previous-save backups",
+    "Export notes as HTML or plain text and export all note data as JSON",
+    "Works offline after initial dependency installation with no account or background server"
+  ],
+  "tags": [
+    "Writing", "Notebook", "Productivity", "Notes", "Rich Text", "Offline",
+    "Local First", "Desktop", "Python", "PySide6", "Qt6", "User Interface Design"
+  ],
+  "featured": false,
+  "visible": true,
+  "notice": "Stillroom 3.0.3 is a downloadable desktop Python application, not a browser app or GitHub Pages experience. Python 3.10+ and PySide6 are required; the Windows launcher installs PySide6 on first use. Notes are stored locally. The task button inserts a checkbox symbol rather than a functional checklist; cloud sync, encryption and attachments are not included."
+}
