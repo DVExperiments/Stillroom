@@ -4,6 +4,7 @@
   "description": "Stillroom is a calm, offline notebook and rich-text writing application built in Python with PySide6. Capture ideas, organise notebooks, and write without accounts, subscriptions or cloud dependencies.",
   "category": "Applications",
   "platform": "Python / PySide6 / Windows desktop",
+  "cover": "assets/stillroom-cover.png",
   "overview": [
     "Stillroom is a local-first writing space designed to reduce distractions. It offers a clean three-column layout, a comfortable editor and light and dark themes, bringing the familiar features of a notebook into a self-contained desktop application.",
     "Instead of inserting Markdown symbols, Stillroom uses genuine rich-text editing for bold, italic, underline, headings, lists and quotations. Notes are automatically saved on the computer and can be searched by their content, title, notebook or tags.",
